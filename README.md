@@ -21,3 +21,9 @@ npm install
   "client_secret": "mysupersecretpassword"
 }
 ```
+
+## Run
+
+``` bash
+node .\index.js
+```
